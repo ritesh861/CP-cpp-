@@ -1,5 +1,5 @@
 //house_robber question
-
+//1 d dynamic programming.
 class Solution {
 public:
     int rob(vector<int>& nums) {
