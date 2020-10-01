@@ -1,6 +1,6 @@
 
 //baseball_question
-
+//based on stack data structure.
 class Solution {
 public:
     int calPoints(vector<string>& ops) {
