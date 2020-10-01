@@ -32,7 +32,6 @@ public:
                 st.push(x);
                 ans+=x;
             }
-            //cout<<ans<<endl;
         }
         return ans;
     }
